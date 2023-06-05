@@ -1,0 +1,27 @@
+{
+  "name": "red-social-huellitas-de-amor",
+  "version": "1.0.0",
+  "description": "Red social de fundación de amimales rescastados en adopción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarmenArayaRodriguez/Red-social-Huellitas-de-amor.git"
+  },
+  "keywords": [
+    "Red",
+    "social",
+    "animales",
+    "adopción",
+    "de",
+    "animales"
+  ],
+  "author": "Carmen Araya Rodríguez - Sara Sierra Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarmenArayaRodriguez/Red-social-Huellitas-de-amor/issues"
+  },
+  "homepage": "https://github.com/CarmenArayaRodriguez/Red-social-Huellitas-de-amor#readme"
+}
