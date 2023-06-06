@@ -1,0 +1,9 @@
+.mb-3 .label {
+    color: #3596A6;
+}
+
+.mb-3 .input {
+    background-color: #3596A6;
+    width: 40vh;
+    height: 5vh;
+}
