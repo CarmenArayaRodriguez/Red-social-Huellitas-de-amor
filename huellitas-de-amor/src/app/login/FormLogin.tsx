@@ -6,11 +6,11 @@ function FormLogin() {
     return (
         <Form>
             <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label className="label">Correo</Form.Label>
+                <Form.Label className="label">CORREO</Form.Label>
                 <Form.Control className="input mx-auto" type="email" />
             </Form.Group>
             <Form.Group className="mb-3" controlId="formBasicPassword">
-                <Form.Label className="label">Contraseña</Form.Label>
+                <Form.Label className="label">CONTRASEÑA</Form.Label>
                 <Form.Control className="input mx-auto" type="password" />
             </Form.Group>
         </Form>
